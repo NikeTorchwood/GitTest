@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ntwdc\\source\\repos\\HomeWork5\\HomeWork5\\HomeWork5.csproj": {}
+    "C:\\Users\\ntwdc\\source\\repos\\HW5\\HomeWork5\\HomeWork5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ntwdc\\source\\repos\\HomeWork5\\HomeWork5\\HomeWork5.csproj": {
+    "C:\\Users\\ntwdc\\source\\repos\\HW5\\HomeWork5\\HomeWork5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ntwdc\\source\\repos\\HomeWork5\\HomeWork5\\HomeWork5.csproj",
+        "projectUniqueName": "C:\\Users\\ntwdc\\source\\repos\\HW5\\HomeWork5\\HomeWork5.csproj",
         "projectName": "HomeWork5",
-        "projectPath": "C:\\Users\\ntwdc\\source\\repos\\HomeWork5\\HomeWork5\\HomeWork5.csproj",
+        "projectPath": "C:\\Users\\ntwdc\\source\\repos\\HW5\\HomeWork5\\HomeWork5.csproj",
         "packagesPath": "C:\\Users\\ntwdc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ntwdc\\source\\repos\\HomeWork5\\HomeWork5\\obj\\",
+        "outputPath": "C:\\Users\\ntwdc\\source\\repos\\HW5\\HomeWork5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ntwdc\\AppData\\Roaming\\NuGet\\NuGet.Config",
